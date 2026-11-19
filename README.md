@@ -42,6 +42,20 @@ Through this exercise, I gained practical experience in password auditing and ha
 
 The project also helped me understand a practical workflow used in authorized security assessments, particularly when evaluating the strength of password protection.
 
+## 📸 Practical Demonstration & Screenshots
+
+![John the Ripper](./jtr.png)
+![Johnny GUI](./johhny%20week%203.png)
+![Password Hashing](./hashing%20week%203.png)
+![Hash Calculator](./hash%20calculator%20week%203.png)
+![Cracked PDF](./cracked%20pdf1.png)
+![Recovered PDF](./pdf%201%20cracked.png)
+![Network Password Cracker](./netwalks%20passcracker.png)
+![NetworkWalks](./netwalks%20week%203.png)
+![Week 3](./week%203.png)
+![Week 3 Exercise](./week%203333.png)
+![Additional Screenshot](./week33.png)
+
 ## Security & Authorization
 
 All activities were performed in an authorized cybersecurity training environment using a provided practice file. The exercise was conducted strictly for educational purposes.
